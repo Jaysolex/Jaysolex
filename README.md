@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaysolex
+- 👋 Hi, I’m Jaysolex
 - 👀 I’m interested in Cybersecurity Blue team soc
 - 🌱 I’m currently learning and majorly handson
 - 💞️ I’m looking to collaborate on Lab and Hands on 
