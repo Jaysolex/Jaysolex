@@ -68,6 +68,11 @@ Certified cybersecurity analyst with hands-on expertise in building detection la
   <img src="https://img.shields.io/badge/-CSAP-800080?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CSAP Badge" />
 </a>
 
+<!-- Microsoft SC-200 (Security Operations Analyst) Badge -->
+<a href="https://learn.microsoft.com/en-ca/users/solomonjames-0854/credentials/cdde6ed9aee5271?ref=https%3A%2F%2Fgithub.com%2FJaysolex%2FCyberSolex%3Ftab%3Dreadme-ov-file" target="_blank">
+  <img src="https://img.shields.io/badge/-SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="SC-200 Badge" />
+</a>
+
 ---
 
 ## 📂 Projects
