@@ -58,10 +58,10 @@ Certified cybersecurity analyst with hands-on expertise in building detection la
     <a href="https://www.credly.com/badges/5f8b2053-657a-49e0-b3d7-055854229640" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
 </a>
-    <img src="https://img.shields.io/badge/-CySA%2B-00BFFF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+    <!-- CySA+ Badge -->
+<a href="https://www.credly.com/badges/d60a07eb-2fff-44bf-aed9-6a653eecf4e6/linked_in?t=swobto" target="_blank">
+  <img src="https://img.shields.io/badge/-CySA%2B-00BFFF?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CySA+ Badge" />
+</a>
 
 ---
 
