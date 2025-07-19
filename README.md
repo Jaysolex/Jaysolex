@@ -73,6 +73,12 @@ Certified cybersecurity analyst with hands-on expertise in building detection la
   <img src="https://img.shields.io/badge/-SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="SC-200 Badge" />
 </a>
 
+<!-- Google Cybersecurity Certificate (Coursera) Badge -->
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GQCT8OM2UZYN" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate (Coursera)" />
+</a>
+
+
 ---
 
 ## 📂 Projects
