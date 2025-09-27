@@ -1,4 +1,4 @@
-# Hello, I am
+# Hello,
 
 ![Profile Banner](D727C551-D6E1-4AEE-B87B-191FDEC0721C.png)
 
