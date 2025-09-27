@@ -1,6 +1,6 @@
 # Hello, I am **Solomon James (CyberSolex)**  
 
-![Profile Banner](banner.png)
+![Profile Banner](D727C551-D6E1-4AEE-B87B-191FDEC0721C.png)
 
 <a href="https://linkedin.com/in/solomon-james-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
