@@ -1,4 +1,4 @@
-# Hello, I am **Solomon James (CyberSolex)**  
+# Hello, I am
 
 ![Profile Banner](D727C551-D6E1-4AEE-B87B-191FDEC0721C.png)
 
@@ -8,7 +8,7 @@
 
 ## 🛡️ Objective  
 Certified **Cybersecurity Analyst** with hands-on expertise in building detection labs, automating SOC workflows, and leveraging modern SIEM platforms.  
-My goal is to contribute to a high-performing **Security Operations Center (SOC)** as a Tier 1 Analyst, assisting in identifying and responding to threats using real-world tools and frameworks.  
+My goal is to contribute to a high-performing **Security Operations Center (SOC)** as a Tier 1 to 3 Analyst, assisting in identifying and responding to threats using real-world tools and frameworks.  
 
 ---
 
