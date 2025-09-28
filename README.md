@@ -16,6 +16,7 @@ My goal is to contribute to a high-performing **Security Operations Center (SOC)
 
 | Skill Category            | Specific Skill                              | Associated Project                                                                |
 |----------------------------|---------------------------------------------|----------------------------------------------------------------------------------|
+| **SOC Hands On**           | Elsearch, Kibana, Microsoft Sentinel, Splunk| [30 days MyDFIR soc](https://github.com/Jaysolex/CyberSolex) 
 | **SIEM**                   | Wazuh, Microsoft Sentinel, Splunk           | [Wazuh SIEM & Elastic Stack Lab](https://github.com/Jaysolex/CyberSolex)         |
 | **Endpoint Monitoring**    | Sysmon, Windows Logging, Defender EDR       | [Sysmon + Sigma Rules Lab](https://github.com/Jaysolex/CyberSolex)               |
 | **Network Analysis**       | Wireshark, Zeek, Suricata                   | [PCAP Analysis & Detection Lab](https://github.com/Jaysolex/CyberSolex)          |
