@@ -85,7 +85,7 @@ My goal is to contribute to a high-performing **Security Operations Center (SOC)
 ### 🛡️ 30-Day SOC Challenge  
 Daily SOC practice — log analysis, threat hunting, and detections over 30 days.  
 📌 Repo: [30-Day-SOC-Challenge](https://github.com/Jaysolex/30-Day-SOC-Challenge)  
-🛠 Tools: Wazuh, Zeek, Suricata, Wireshark, Sigma, Sysmon  
+🛠 Tools: ELK STACK, Kibsns, Ubuntu OS, windows OS, Wazuh, Zeek, Suricata, Wireshark, Sigma, Sysmon  
 
 ---
 
