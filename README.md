@@ -82,37 +82,4 @@ My goal is to contribute to a high-performing **Security Operations Center (SOC)
 
 ## 📂 Featured Projects  
 
-### 🛡️ 30-Day SOC Challenge  
-Daily SOC practice — log analysis, threat hunting, and detections over 30 days.  
-📌 Repo: [30-Day-SOC-Challenge](https://github.com/Jaysolex/30-Day-SOC-Challenge)  
-🛠 Tools: ELK STACK, Kibsns, Ubuntu OS, windows OS, Wazuh, Zeek, Suricata, Wireshark, Sigma, Sysmon  
 
----
-
-### 📊 Wazuh SIEM + Elastic Stack Detection Lab  
-Built and configured Wazuh with Elastic for log collection, correlation, and alerting.  
-📌 Repo: [SOC-Lab-Packet-Capturing-Project](https://github.com/Jaysolex/SOC-Lab-Packet-Capturing-Project)  
-🛠 Tools: Wazuh, ElasticSearch, Kibana  
-
----
-
-### 🤖 SOC Automation with Shuffle SOAR, TheHive & Cortex  
-Automated alert enrichment and case management workflows using SOAR platforms.  
-📌 Repo: [CyberSolex](https://github.com/Jaysolex/CyberSolex)  
-🛠 Tools: Shuffle SOAR, TheHive, Cortex  
-
----
-
-### 🖥️ Sysmon + Sigma Rule Threat Detection Lab  
-Created detection rules for Windows events using Sysmon and Sigma.  
-📌 Repo: [Linux-Break-Fix-Lab](https://github.com/Jaysolex/Linux-Break-Fix-Lab)  
-🛠 Tools: Sysmon, Sigma, Windows Event Logs  
-
----
-
-### 🌐 Wireshark + Zeek PCAP Analysis  
-Performed packet captures and identified suspicious network activity.  
-📌 Repo: [CyberSolex](https://github.com/Jaysolex/CyberSolex)  
-🛠 Tools: Wireshark, Zeek, Suricata  
-
----
