@@ -80,6 +80,7 @@ My goal is to contribute to a high-performing **Security Operations Center (SOC)
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
+https://github.com/Jaysolex/rhel-webapp-security-lab
 
 
