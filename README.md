@@ -10,7 +10,18 @@
 Certified **Cybersecurity Analyst** with hands-on expertise in building detection labs, automating SOC workflows, and leveraging modern SIEM platforms.  
 My goal is to contribute to a high-performing **Security Operations Center (SOC)** as a Tier 1 to 3 Analyst, assisting in identifying and responding to threats using real-world tools and frameworks.  
 
----
+----
+
+## 📂 Featured Projects
+
+- **RHEL Web Application Security Lab**  
+  Hands-on lab focused on securing and hardening web applications on RHEL.  
+  https://github.com/Jaysolex/rhel-webapp-security-lab  
+
+- **SOC Lab Setup – Ready for Log Ingestion**  
+  End-to-end SOC lab using the Elastic Stack for centralized log ingestion and analysis.  
+  https://github.com/Jaysolex/-SOC-Lab-Setup-Ready-for-Log-Ingestion-
+----
 
 ## 🧠 Skills & Associated Projects
 
@@ -79,8 +90,5 @@ My goal is to contribute to a high-performing **Security Operations Center (SOC)
 </div>
 
 ---
-
-## 📂 Featured Projects
-https://github.com/Jaysolex/rhel-webapp-security-lab
 
 
